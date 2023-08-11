@@ -1,0 +1,31 @@
+body, html {
+    margin:auto; border: solid 10px rgb(134, 168, 222);
+    background-color: rgb(231, 234, 249);   
+}
+
+#destaque {background-image: url(Boipeba.jpg.jpg);
+        text-align: center ;
+    color: rgb(53, 102, 207);
+    height: 100px;
+}
+
+.item{width: 20%;
+    border: 5px solid blue ;
+    float: left;
+    text-align: center;
+    padding: 4%;
+}
+
+#produtos{
+text-align: justify;
+clear: both;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+
+}
+
+h1{color: rgb(56, 230, 233);}
+h2{color: rgb(52, 79, 230);}
