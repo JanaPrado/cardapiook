@@ -4,13 +4,13 @@ body, html {
 }
 
 #destaque {background-image: url(IMG/Boipeba.jpg);
-        text-align: center ;
+        text-align: center;
     color: rgb(53, 102, 207);
     height: 100px;
 }
 
 .item{width: 20%;
-    border: 5px solid blue ;
+    border: 5px solid blue;
     float: left;
     text-align: center;
     padding: 4%;
